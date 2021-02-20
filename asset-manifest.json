@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/egret-blog/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/egret-blog/static/js/main.3caf20c7.chunk.js",
+    "main.js.map": "/egret-blog/static/js/main.3caf20c7.chunk.js.map",
+    "runtime-main.js": "/egret-blog/static/js/runtime-main.ecc85516.js",
+    "runtime-main.js.map": "/egret-blog/static/js/runtime-main.ecc85516.js.map",
+    "static/js/2.0266341d.chunk.js": "/egret-blog/static/js/2.0266341d.chunk.js",
+    "static/js/2.0266341d.chunk.js.map": "/egret-blog/static/js/2.0266341d.chunk.js.map",
+    "static/js/3.2dd0373c.chunk.js": "/egret-blog/static/js/3.2dd0373c.chunk.js",
+    "static/js/3.2dd0373c.chunk.js.map": "/egret-blog/static/js/3.2dd0373c.chunk.js.map",
+    "index.html": "/egret-blog/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/egret-blog/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0266341d.chunk.js.LICENSE.txt": "/egret-blog/static/js/2.0266341d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecc85516.js",
+    "static/js/2.0266341d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3caf20c7.chunk.js"
+  ]
+}
